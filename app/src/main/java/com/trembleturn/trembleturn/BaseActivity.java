@@ -6,13 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import java.io.File;
 import java.io.IOException;
 
-/**
- * Created by
- *
- * @author Sarfaraz Iraqui
- * @email sarfarazghlm@gmail.com
- * on 2/2/19
- */
+
 public class BaseActivity extends AppCompatActivity {
 
     public void saveLogcatToFile(Context context) throws IOException {
